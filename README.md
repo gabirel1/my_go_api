@@ -1,6 +1,6 @@
 # dependencies
 
-`snap install go`
+`snap install go --classic`
 `go get github.com/gin-gonic/gin`
 
 # How to launch :
